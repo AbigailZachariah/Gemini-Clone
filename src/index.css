@@ -1,9 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Edu+NSW+ACT+Cursive:wght@400..700&family=Outfit:wght@100..900&family=Playwrite+NZ+Basic:wght@100..400&display=swap');
+
 *{
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  font-family: Outfit;
 }
 #root{
   min-height: 100vh;
+  /* will be displayed side by side */
   display: flex;
 }
